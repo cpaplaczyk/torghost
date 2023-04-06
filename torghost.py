@@ -52,6 +52,8 @@ def logo():
        | | (_) | |  | |_| | | | | (_) \__ \ |_
        |_|\___/|_|   \____|_| |_|\___/|___/\__|
 	{V} - github.com/SusmithKrishnan/torghost
+	
+	Usage: sudo python3 torhost.py --start
 
     """.format(V=VERSION))
     print(bcolors.ENDC)
